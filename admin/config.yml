@@ -37,3 +37,5 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Title2", name: "title2", widget: "string" }
+      - { label: "Body2", name: "body2", widget: "markdown" }
