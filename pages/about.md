@@ -6,7 +6,12 @@ eleventyNavigation:
   key: About
   order: 1
 title2: Title2
-body2: Body2
+body2: |-
+  Body2
+
+
+
+  # Hello World
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
