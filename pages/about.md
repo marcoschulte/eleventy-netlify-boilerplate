@@ -5,6 +5,12 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
+body3: |-
+  This is body 3
+
+
+
+  ### Test 2 3
 title2: Title2
 body2: |-
   Body2
